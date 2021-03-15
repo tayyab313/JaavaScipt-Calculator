@@ -1,0 +1,128 @@
+*{
+    
+    font-family: 'Hachi Maru Pop', cursive;
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    text-align: center;
+    margin-top:23px
+}
+
+table{
+    margin: auto;
+}
+#bracket-open
+{
+    background-color: red;
+    color: black;
+    border: none;
+    font-weight: 700;
+}
+#bracket-close
+{
+    background-color: green;
+    color: black;
+    border: none;
+    font-weight: 700;
+}
+
+#clear
+{
+    background-color: yellow;
+    color: black;
+    border: none;
+    font-weight: 700;
+
+}
+#percent
+{
+    background-color:cadetblue;
+    color: black;
+    border: none;
+    font-weight: 700;
+
+}
+#multi
+{
+    color: black;
+    background-color: #5ede5c;
+    border: none;
+    font-weight: 700;
+
+}
+#subtract
+{
+    
+    background-color:darkgoldenrod;
+    color: black;
+    border: none;
+    font-weight: 700;
+
+}
+#addition
+{
+    
+    background-color: aqua;
+    color: black;
+    border: none;
+    font-weight: 700;
+
+    
+
+} 
+#divide
+{
+    
+    background-color: darkseagreen;
+    color: black;
+    border: none;
+    font-weight: 700;
+
+
+}
+#equal
+{
+    
+    background-color: brown;
+    color: black;
+    border: none;
+    font-weight: 700;
+
+
+}
+input{
+    border-radius: 53px;
+    border: 1px solid #244624;
+    font-size: 41px;
+    height: 61px;
+    width: 460px;
+    padding-left: 15px;
+    padding-bottom: 11px;
+}
+
+button{
+    border-radius: 45px;
+    font-size: 48px;
+    background: #524d58;
+    width: 102px;
+    height: 90px;
+    margin: 3px;
+    color: white;
+    outline: none;
+}
+
+.calculator{ 
+    border: 1px solid #13695d;
+    background-color: #00000008;
+    padding: 15px;
+    border-radius: 43px;
+    display: inline-block;
+    
+}
+
+h1{
+    font-size: 28px;
+    font-family: 'Courier New', Courier, monospace;
+}
